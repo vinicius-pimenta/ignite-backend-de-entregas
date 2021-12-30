@@ -5,7 +5,7 @@ import { CreateDeliverymanController } from './modules/deliveryman/use-cases/cre
 import { AuthenticateDeliverymanController } from './modules/account/authenticate-deliveryman/authenticate-deliveryman-controller'
 import { CreateDeliveryController } from './modules/deliveries/use-cases/create-delivery/create-delivery-controller'
 import { ensureAuthenticateClient } from './middlewares/ensure-auhenticate-client'
-import { FindAllAvailableController } from './modules/deliveries/use-cases/findAllAvailable/find-all-available-controller'
+import { FindAllAvailableController } from './modules/deliveries/use-cases/find-all-available/find-all-available-controller'
 import { ensureAuthenticateDeliveryman } from './middlewares/ensure-authenticate-deliveryman'
 import { UpdateDeliverymanController } from './modules/deliveries/use-cases/update-deliveryman/update-deliveryman-controller'
 import { FindAllDeliveriesController } from './modules/clients/use-cases/deliveries/find-all-deliveries-controller'
