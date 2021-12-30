@@ -18,5 +18,5 @@
 - Criar update de entregas ✅
 - Criar busca de entregas do client ✅
 - Criar busca de entregas do deliveryman
-- Ocultar senha ao criar um cliente ou entregador
+- Ocultar senha ao criar um cliente ou entregador ✅
 - Criar variáveis de ambiente no .env
